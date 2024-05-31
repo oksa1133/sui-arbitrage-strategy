@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "assert": "^2.1.0",
+    "asset": "^0.4.13",
+    "dotenv": "^16.4.5",
+    "esrun": "^3.2.26",
+    "navi-sdk": "^1.1.23"
+  }
+}
